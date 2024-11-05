@@ -2,11 +2,12 @@
 
 #### 🛠️ Stacks
 
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
 
 #### 💪🏼 Tools 
 
  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white"/>
+
 
 #### 🏫 KYUNG HEE UNIVERSITY 
 - Bachelor's Degree
@@ -26,7 +27,12 @@
 
 #### 😁 About me
 
-- (진행중)2024.08 ~ 네이버 부스트캠프 AI Tech 7기 CV 도메인
+- (진행중)2024.08 ~ 네이버 부스트캠프 AI Tech 7기 Computer Vision 도메인
+   - Classification: Classification model using sketch data
+   - Object Detection: Object Detection for Recycling Item Classification
+   - CV Data-Centric : Multilingual Receipt OCR
+   - Semantic Segmentation : Hand Bone Image Segmentation
+   - Corporate Hackathon
 - 네이버 부스트코스 ‘AI 엔지니어 기초 다지기 : 부스트캠프 AI Tech 준비과정’ 수료
 - 데이터 분석 캡스톤 디자인 경진대회 최우수상 입상
   - 주제 :  ‘딥러닝 및 지도 API 기반 외식음식 영양정보 서비스, 지식(JISIK)'
