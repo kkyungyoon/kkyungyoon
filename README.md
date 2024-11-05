@@ -27,9 +27,11 @@
 
 #### 😁 About me
 
+- 논문 정리 및 구현 (레포지토리명 : paper-log)
+   - Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks (2015), Radford et al.,
 - (진행중) 2024.08 ~ 2025.02 : 네이버 부스트캠프 AI Tech 7기 Computer Vision 도메인
-   - Classification: Classification model using sketch data
-   - Object Detection: Object Detection for Recycling Item Classification
+   - Classification: Classification model using sketch data (레포지토리명 : level1-imageclassification-cv-01)
+   - Object Detection: Object Detection for Recycling Item Classification (레포지토리명 : level2-objectdetection-cv-01)
    - CV Data-Centric : Multilingual Receipt OCR
    - Semantic Segmentation : Hand Bone Image Segmentation
    - Corporate Hackathon
