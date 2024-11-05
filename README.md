@@ -27,7 +27,7 @@
 
 #### 😁 About me
 
-- (진행중)2024.08 ~ 네이버 부스트캠프 AI Tech 7기 Computer Vision 도메인
+- (진행중) 2024.08 ~ 2025.02 : 네이버 부스트캠프 AI Tech 7기 Computer Vision 도메인
    - Classification: Classification model using sketch data
    - Object Detection: Object Detection for Recycling Item Classification
    - CV Data-Centric : Multilingual Receipt OCR
