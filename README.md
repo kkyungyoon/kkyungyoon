@@ -17,7 +17,7 @@
 
 |Competition|Prize|Date|Subject|
 |------|---|---|-----|
-|2021-1 KYUNG HEE Capstone Design Contest|grand prize|Aug 04, 2021|Yolov5, classification model|
+|2021-1 KYUNG HEE Capstone Design Contest|Grand Prize|Aug 04, 2021|YOLOv5, Classification Model|
 
 #### 📋 License
 
