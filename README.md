@@ -1,4 +1,4 @@
-### Hi Welcome, i'm Kyungyoon Kim
+# Hi Welcome, I'm Kyungyoon Kim
 
 #### 🛠️ Stacks
 
@@ -13,11 +13,15 @@
 - Bachelor's Degree
 - Major: Business Administration
 
+<br>
+
 #### 🏆 Awards
 
 |Competition|Prize|Date|Subject|
 |------|---|---|-----|
 |2021-1 KYUNG HEE Capstone Design Contest|Grand Prize|Aug 04, 2021|YOLOv5, Classification Model|
+
+<br>
 
 #### 📋 License
 
@@ -25,10 +29,16 @@
 - SQL 개발자(SQLD)
 - 데이터 분석 준전문가(ADsP)
 
-#### 😁 About me
+<br>
 
+#### 📚 Study
 - 논문 정리 및 구현 (레포지토리명 : paper-log)
    - Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks (2015), Radford et al.,
+   - Adversarial Autoencoders (2015), Alireza Makhzani, Jonathon Shlens, Navdeep Jaitly, Ian Goodfellow, Brendan Frey
+
+<br>
+ 
+#### 👩‍💻 Activities Related to AI
 - (진행중) 2024.08 ~ 2025.02 : 네이버 부스트캠프 AI Tech 7기 Computer Vision 도메인
    - Classification: Classification model using sketch data (레포지토리명 : level1-imageclassification-cv-01)
    - Object Detection: Object Detection for Recycling Item Classification (레포지토리명 : level2-objectdetection-cv-01)
@@ -39,6 +49,10 @@
 - 데이터 분석 캡스톤 디자인 경진대회 최우수상 입상
   - 주제 :  ‘딥러닝 및 지도 API 기반 외식음식 영양정보 서비스, 지식(JISIK)'
 - Python 외부 교육 ‘코알라Univ’수료
+
+<br>
+
+#### 👩‍💻 Activities Related to Business Administration
 - 경희대학교 경영전략학회 ‘ProSeed’ 수료
   - LG 유플러스 주관 U+Shop 대학생 트렌드리포트 활동
   - 프로스펙스 마케팅 공모전 장려상 수상
@@ -47,4 +61,8 @@
     - 길벗출판사, 바디판타지와 대외협력을 체결
 - SK SUNNY ‘사회혁신프로젝트’ 수료
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kkyungyoon&show_icons=true)
+<br>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ruddbs803)](https://solved.ac/ruddbs803)   
+<br>
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kkyungyoon&show_icons=true&theme=radical)
