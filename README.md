@@ -32,6 +32,12 @@
 <br>
 
 #### 📚 Study
+- RL 공부
+   - 책 ‘바닥부터 배우는 강화학습’ 코드로 공부 (레포지토리명 : RLfrombasics)
+- 코딩 스터디
+   - solvedac 스터디 (레포지토리명 : coding-test)
+- 코딩 개인공부
+   - solvedad, programmers 공부 (레포지토리명 : Algorithm) 
 - 논문 정리 및 구현 (레포지토리명 : paper-log)
    - Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks (2015), Radford et al.,
    - Adversarial Autoencoders (2015), Alireza Makhzani, Jonathon Shlens, Navdeep Jaitly, Ian Goodfellow, Brendan Frey
@@ -39,12 +45,17 @@
 <br>
  
 #### 👩‍💻 Activities Related to AI
-- (진행중) 2024.08 ~ 2025.02 : 네이버 부스트캠프 AI Tech 7기 Computer Vision 도메인
-   - Classification: Classification model using sketch data (레포지토리명 : level1-imageclassification-cv-01)
-   - Object Detection: Object Detection for Recycling Item Classification (레포지토리명 : level2-objectdetection-cv-01)
-   - CV Data-Centric : Multilingual Receipt OCR
-   - Semantic Segmentation : Hand Bone Image Segmentation
-   - Corporate Hackathon
+- 2024.08 ~ 2025.02 : 네이버 부스트캠프 AI Tech 7기 Computer Vision 도메인 수료  
+   - Classification: Classification model using sketch data  
+     (레포지토리명 : level1-imageclassification-cv-01)
+   - Object Detection: Object Detection for Recycling Item Classification  
+     (레포지토리명 : level2-objectdetection-cv-01)
+   - CV Data-Centric : Multilingual Receipt OCR  
+     (레포지토리명 : level2-cv-datacentric-cv-01)
+   - Semantic Segmentation : Hand Bone Image Segmentation  
+     (레포지토리명 : level2-cv-semanticsegmentation-cv-06-lv3)   
+   - Corporate Hackathon : 다양한 데이터를 분석하고, 고객이 원하는 최적의 추천 값을 제안하는 자동화된 Prescriptive AI 솔루션 개발  
+     (레포지토리명 : level4-cv-finalproject-hackathon-cv-06-lv3)  
 - 네이버 부스트코스 ‘AI 엔지니어 기초 다지기 : 부스트캠프 AI Tech 준비과정’ 수료
 - 데이터 분석 캡스톤 디자인 경진대회 최우수상 입상
   - 주제 :  ‘딥러닝 및 지도 API 기반 외식음식 영양정보 서비스, 지식(JISIK)'
