@@ -37,7 +37,7 @@
 - 코딩 스터디
    - solvedac 스터디 (레포지토리명 : coding-test)
 - 코딩 개인공부
-   - solvedad, programmers 공부 (레포지토리명 : Algorithm) 
+   - solvedac, programmers 공부 (레포지토리명 : Algorithm) 
 - 논문 정리 및 구현 (레포지토리명 : paper-log)
    - Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks (2015), Radford et al.,
    - Adversarial Autoencoders (2015), Alireza Makhzani, Jonathon Shlens, Navdeep Jaitly, Ian Goodfellow, Brendan Frey
